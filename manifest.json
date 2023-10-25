@@ -1,0 +1,12 @@
+{
+  "name": "HehCards",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/inafranco/HehCards",
+  "description": "Heh Cards",
+  "dependencies": [
+    "willis81808-UnboundLib-2.6.2",
+    "BepInEx-BepInExPack_ROUNDS-5.4.1100",
+    "Pykess-CardChoiceSpawnUniqueCardPatch-0.1.2",
+    "Pykess-ModdingUtils-0.1.3"
+  ]
+}
